@@ -1,6 +1,6 @@
 {
   "name": "@matarazy28/create-react-template",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This is a vanilla react template generator",
   "bin": "./bin/cli.js",
   "scripts": {
@@ -16,7 +16,6 @@
     "react-starter",
     "vite"
   ],
-
   "author": "",
   "license": "ISC",
   "dependencies": {
