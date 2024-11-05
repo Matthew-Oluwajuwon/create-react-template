@@ -21,7 +21,7 @@ Make sure you have the following installed:
 ### Documentation
 For more detailed instructions and advanced usage, please visit the [Vanilla React Template Documentation](https://vanilla-react-template-documentation.onrender.com/).
 
-
+ 
 ### Installation
 
 You can easily create a new project using this template with the following command:
