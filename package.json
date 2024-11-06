@@ -1,8 +1,9 @@
 {
   "name": "@matarazy28/create-react-template",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "This is a vanilla react template generator",
   "bin": "./bin/cli.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
